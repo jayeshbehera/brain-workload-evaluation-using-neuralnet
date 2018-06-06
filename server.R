@@ -1,19 +1,19 @@
 
-#install.packages("neuralnet")
-#install.packages("e1071")
-#install.packages("shiny")
+install.packages("neuralnet")
+install.packages("e1071")
+install.packages("shiny")
+install.packages("shinyRGL")
 
-#library(neuralnet)
-#library(e1071)
+
 #library(glm2)
-#install.packages("shinyRGL")
+#library(deepnet)
+
 
 #library(ggplot2)
 library(shiny)
 library(forecast)
 library(e1071)
 library(kernlab)
-library(deepnet)
 library(RSNNS)
 library(neuralnet)
 library(MASS)
